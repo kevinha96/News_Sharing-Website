@@ -1,0 +1,9 @@
+Website: 
+http://ec2-54-197-199-88.compute-1.amazonaws.com/~kevinha/Module3/login.php
+
+Creative Portion:
+Favorites: User can add favorite stories and they display in their profile in chrnological order. You can remove all your favorites at once or remove them one by one. 
+
+Profile: User has a profile where they can view all their stories, comments, inbox, and favorites all ordered in chronological order. 
+
+Messaging: Users can message other registered users. The top of the messaging page lists the registered users in the database. If a user tries to send a message to an unregistered username, the website returns with "User does not exist". The user can also view all his messages in chronological order in his profile. 
